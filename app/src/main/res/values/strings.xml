@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="from_ivan_with_love">From Ivan, with love</string>
+    <string name="happy_birthday_text">Happy Birthday!</string>
+</resources>
